@@ -4,3 +4,6 @@ Veg
 ---
 Punjabi cuisine
 Chinese cuisine
+
+pizza
+chowmin
